@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="Version" translatable="false">1.0</string>
+
+    <string name="app_name">وجبة عشوائية</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+    <string name="search">بحث</string>
+    <string name="meal_name">اسم الوجبة</string>
+    <string name="dinner">عشاء</string>
+    <string name="lunch">غداء</string>
+    <string name="breakfast">فطور</string>
+    <string name="meal_image">صورة الوجبة</string>
+    <string name="Version_app">إصدار التطبيق:</string>
+    <string name="developer">المطور: سالم الزهيري</string>
+    <string name="order">قائمة</string>
+    <string name="meal">وجبة</string>
+    <string name="add">"إضافة "</string>
+    <string name="name_is">اسم ال</string>
+    <string name="add_order">إضافة قائمة</string>
+    <string name="done">تم</string>
+    <string name="order_color">لون القائمة</string>
+    <string name="add_image">اضف صورة</string>
+    <string name="cancel">الغاء</string>
+    <string name="save">حفظ</string>
+    <string name="add_meal">إضافة وجبة</string>
+    <string name="about">حول التطبيق</string>
+    <string name="there_are_no_meals_for_you">لا توجد وجبات خاصة بك!!</string>
+    <string name="my_meal">وجباتي</string>
+    <string name="app_meal">وجبات التطبيق</string>
+    <string name="both">كلاهما</string>
+    <string name="press_again_to_exit">إضغط مجدداً للخروج</string>
+    <string name="Please_make_sure_to_choose_the_meal_time">الرجاء التأكد من اختيار وقت الوجبة</string>
+    <string name="you_have_not_added_any_of_your_meals">لم تقم بإضافة اي وجبة خاصة بك</string>
+    <string name="added_the">تمت إضافة ال</string>
+    <string name="deleted">تم الحذف</string>
+    <string name="no">لا</string>
+    <string name="delete_the">حذف ال</string>
+    <string name="are_you_sure_to_delete_the">هل أنت متأكد من حذف ال</string>
+    <string name="yes">نعم</string>
+    <string name="ques">؟</string>
+    <string name="choose_order_color">إختر لون القائمة</string>
+    <string name="permission">يجب منح الاذن للوصول لإضافة صورة لوجبتك (الاذن مطلوب)</string>
+</resources>

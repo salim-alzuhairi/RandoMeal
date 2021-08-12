@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="48dp">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true">
+
+
+
+        <ImageView
+            android:id="@+id/sub_image"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/app_icon"/>
+
+        <TextView
+            android:id="@+id/sub_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="8dp"
+            android:fontFamily="@font/muli"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/remove_sub_item"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+
+            android:layout_marginEnd="8dp"
+            android:padding="16dp"
+            app:srcCompat="@android:drawable/ic_delete"/>
+
+        <com.google.android.material.checkbox.MaterialCheckBox
+            android:id="@+id/check_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</RelativeLayout>

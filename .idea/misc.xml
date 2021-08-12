@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/drawable-anydpi/ic_action_info_light.xml" value="0.234375" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/drawable-anydpi/ic_action_name_light.xml" value="0.234375" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10462962962962963" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/drawable/ic_app_icon2.xml" value="0.234375" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/font/muli.xml" value="0.10462962962962963" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout-v21/activity_main.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/activity_add_meal.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/admobe.xml" value="0.23229166666666667" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/chip.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/color_picker.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/divider.xml" value="0.23229166666666667" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/expanding_item.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/expanding_layout.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/expanding_sub_item.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/image_import.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/layout/meal_add.xml" value="0.1" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/menu/bar1.xml" value="0.264" />
+        <entry key="..\:/salim/AndroidStudioProjects/RandoMeal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10462962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
